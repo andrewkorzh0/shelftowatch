@@ -2,7 +2,7 @@
 
 ![Search any movie](media/searchanymovie.gif)
 
-A simple movie tracking web application built with Laravel and Inertia.js.
+Shelf To Watch is a simple web app for discovering and organizing movies. Keep track of what you've watched and plan your next movie night with ease.
 
 ## Features
 
@@ -22,6 +22,16 @@ A simple movie tracking web application built with Laravel and Inertia.js.
 7. Run `php artisan serve`
 8. Run `npm run dev`
 9. Open the app in your browser at `http://localhost:8000`
+
+## Technologies Used
+
+- Laravel
+- React
+- TypeScript
+- Tailwind CSS
+- Jest
+- Pest
+- SQLite
 
 ## Endpoints
 
