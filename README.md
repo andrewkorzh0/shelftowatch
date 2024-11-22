@@ -26,6 +26,7 @@ Shelf To Watch is a simple web app for discovering and organizing movies. Keep t
 ## Technologies Used
 
 - Laravel
+- PHP
 - React
 - TypeScript
 - Tailwind CSS
