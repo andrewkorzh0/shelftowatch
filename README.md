@@ -1,10 +1,12 @@
 # Shelf To Watch
 
-![Search any movie](media/searchanymovie.gif)
+![logo](media/stwlogo.png)
 
 Shelf To Watch is a simple web app for discovering and organizing movies. Keep track of what you've watched and plan your next movie night with ease.
 
 ## Features
+
+![Search any movie](media/searchanymovie.gif)
 
 -   User authentication and authorization
 -   Search for movies by title, genre, or year
@@ -25,14 +27,14 @@ Shelf To Watch is a simple web app for discovering and organizing movies. Keep t
 
 ## Technologies Used
 
-- Laravel
-- PHP
-- React
-- TypeScript
-- Tailwind CSS
-- Jest
-- Pest
-- SQLite
+-   Laravel
+-   PHP
+-   React
+-   TypeScript
+-   Tailwind CSS
+-   Jest
+-   Pest
+-   SQLite
 
 ## Endpoints
 
